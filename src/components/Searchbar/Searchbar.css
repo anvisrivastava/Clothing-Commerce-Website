@@ -1,0 +1,42 @@
+.search{
+    margin:8px 0px 0px 40px;
+    width:50%;
+    padding:8px;
+    border-radius:5px;
+    background-color: rgba(135, 206, 250, 0.34);
+}
+.search-bar{
+    margin-bottom: 1%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight:bolder;
+}
+.cloth a{
+    text-decoration: none;
+    color: black;;
+}
+.cloth{
+    margin-top:4%;
+    padding: 1%;
+    background-color: lightskyblue;
+}
+.fashion{
+     margin-left:2%;
+     padding:3%;
+}
+.img1{
+    width:20%;
+    border-radius:80%;
+    margin-left:20%;
+}
+.img2{
+    width:20%;
+    border-radius:50%;
+    margin-left:20%;
+}
+#dropdown-basic{
+    margin-left: 80%;
+    margin-top: -3%;
+}

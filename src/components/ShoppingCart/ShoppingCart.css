@@ -1,0 +1,12 @@
+.button{
+    width:40%;
+}
+.winter{
+    margin-top:1%;
+    border:1px solid rgba(128, 128, 128, 0.29);
+    border-radius: 6px;
+}
+.hanging{
+   width:35rem;
+   margin:6% 0% 6% 11%;
+}

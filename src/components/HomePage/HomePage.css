@@ -1,0 +1,23 @@
+.dress{
+    border-top: 2px;
+    margin:6% 0% 0% 0%;
+}
+.style{
+    background-color: deeppink;
+    border-top:2px solid gray;
+    margin-top:4%;   
+}
+.trends{
+    margin-top:4%;
+    margin-bottom: 2%;
+}
+.trends:hover{
+    transform: scale(1.1);
+}
+.Trendy{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-style: italic;
+    margin-top:1%;
+}
